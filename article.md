@@ -157,7 +157,7 @@ Enter 彻底坏了，怎么办？
 - **改之前自动备份**，一条命令还原
 - **完全开源**，代码可审计，不联网
 
-> 仓库地址：`https://github.com/wangfengsec/AI-Life/tree/main/keyboard-rescue`
+> 仓库地址：`https://github.com/wangfengsec/AI-Life`
 
 C 盘可用空间：**3.6 GB → 26.5 GB**。
 
