@@ -86,10 +86,6 @@ COMMA PERIOD SLASH
 Windows 的自动连发间隔约 30ms，而人手正常按键间隔一般 > 120ms。
 `guard` 就是利用这个差值：同一按键 120ms 内的第二次按下直接丢弃。
 
-## 配套文章
-
-- [`article.md`](article.md)：一次真实的「AI 修键盘」记录，可直接用于公众号 / 博客。
-
 ## AI Skill
 
 仓库内置了一个 OpenCode skill：`.opencode/skills/keyboard-rescue/`。
